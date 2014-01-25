@@ -1,0 +1,22 @@
+{
+  "name": "my-sass-boilerplate",
+  "version": "1.0.0",
+  "homepage": "https://github.com/stefanotorresi/my-sass-boilerplate",
+  "authors": [
+    "Stefano Torresi <webdev@stefanotorresi.it>"
+  ],
+  "description": "a small SASS utility collection",
+  "main": "my-sass-boilerplate.scss",
+  "keywords": [
+    "sass",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
